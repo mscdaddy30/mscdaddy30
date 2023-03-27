@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mscdaddy30
 - 👀 I’m interested in gaming, programming, and general Computer Science
-- 🌱 I’m currently learning Python, JavaScript, and Rust
+- 🌱 I’m currently learning Python, JavaScript (vanilla, Express, Node.js), and Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
